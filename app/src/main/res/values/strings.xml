@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Botton</string>
+    <string name="str_nom">Nombre</string>
+    <string name="str_tel">Telefono</string>
+    <string name="str_correo">Correo</string>
+    <string name="str_ape">Apellido</string>
+    <string name="str_aceptar">Aceptar</string>
+</resources>
